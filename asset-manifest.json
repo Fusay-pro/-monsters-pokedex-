@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https//Fusay-pro.github.io/monsters-pokedex/static/css/main.4ba63bf0.chunk.css",
+    "main.js": "/https//Fusay-pro.github.io/monsters-pokedex/static/js/main.61c78ff9.chunk.js",
+    "main.js.map": "/https//Fusay-pro.github.io/monsters-pokedex/static/js/main.61c78ff9.chunk.js.map",
+    "runtime-main.js": "/https//Fusay-pro.github.io/monsters-pokedex/static/js/runtime-main.fa5df4fb.js",
+    "runtime-main.js.map": "/https//Fusay-pro.github.io/monsters-pokedex/static/js/runtime-main.fa5df4fb.js.map",
+    "static/js/2.c5a89060.chunk.js": "/https//Fusay-pro.github.io/monsters-pokedex/static/js/2.c5a89060.chunk.js",
+    "static/js/2.c5a89060.chunk.js.map": "/https//Fusay-pro.github.io/monsters-pokedex/static/js/2.c5a89060.chunk.js.map",
+    "static/js/3.0c6990ac.chunk.js": "/https//Fusay-pro.github.io/monsters-pokedex/static/js/3.0c6990ac.chunk.js",
+    "static/js/3.0c6990ac.chunk.js.map": "/https//Fusay-pro.github.io/monsters-pokedex/static/js/3.0c6990ac.chunk.js.map",
+    "index.html": "/https//Fusay-pro.github.io/monsters-pokedex/index.html",
+    "static/css/main.4ba63bf0.chunk.css.map": "/https//Fusay-pro.github.io/monsters-pokedex/static/css/main.4ba63bf0.chunk.css.map",
+    "static/js/2.c5a89060.chunk.js.LICENSE.txt": "/https//Fusay-pro.github.io/monsters-pokedex/static/js/2.c5a89060.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa5df4fb.js",
+    "static/js/2.c5a89060.chunk.js",
+    "static/css/main.4ba63bf0.chunk.css",
+    "static/js/main.61c78ff9.chunk.js"
+  ]
+}
